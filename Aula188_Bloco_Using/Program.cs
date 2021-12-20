@@ -13,7 +13,7 @@ namespace Aula188_Bloco_Using
     {
         static void Main(string[] args)
         {
-            string path = @"c:\temp\filex.txt"; // Caminho do arquivo
+            string path = @"c:\temp\file1.txt"; // Caminho do arquivo
 
             try // Bloco TRY/CATCH utilizado para Tratamento de Erros
             {
